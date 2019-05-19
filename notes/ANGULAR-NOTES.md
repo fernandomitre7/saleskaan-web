@@ -14,7 +14,7 @@ Example: `ng g component auth -m auth`
 
 Other Examples:
 
-* `ng g guard auth -m auth`
+* `ng g guard auth -m auth --flat=false`
 
 ## To generate a service inside a module
 
